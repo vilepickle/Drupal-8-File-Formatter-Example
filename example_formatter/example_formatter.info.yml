@@ -1,0 +1,9 @@
+name: Example File Formatter
+type: module
+description: "Provides custom file handling code."
+package: Example
+version: '8.x-1.0'
+core: '8.x'
+project: 'example_formatter'
+dependencies:
+  - field
